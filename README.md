@@ -2,7 +2,7 @@
 
 A simple web interface for chatting with Ollama's Llama 3.2 model. The application provides a very basic UI for interacting with the model and includes features for file summarization.
 
-![Basic Ollama Chat Interface](https://lamorbidamacchina.com/images/ollama/ollama-chat.png)
+![Basic Ollama Chat Interface](https://lamorbidamacchina.com/images/ollama/ollama-chat.png?v=2)
 
 ## Features
 
